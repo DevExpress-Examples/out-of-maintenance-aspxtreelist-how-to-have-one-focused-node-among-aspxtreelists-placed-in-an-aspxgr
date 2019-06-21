@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTreeList - How to have one focused node among ASPxTreeLists placed in an ASPxGridView detail row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t570802/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to have one focused node within several ASPxTreeLists located in an ASPxGridView detail row template.</p>
